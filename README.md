@@ -10,4 +10,4 @@ The DCGAN was trained on [CelebFaces Attributes (CelebA) Dataset](http://mmlab.i
 [image1]: ./assets/processed_face_data.png "Sample Input"
 
 ### Sample Output:
-[image2]: ./images/sample_output.png "Sample Output"
+[image2]: ./assets/sample_output.png "Sample Output"
