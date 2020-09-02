@@ -1,3 +1,6 @@
+[image1]: ./assets/processed_face_data.png "Sample Input"
+[image2]: ./assets/sample_output.png "Sample Output"
+
 ## Project Overview
 
 This project was built using DCGAN.
@@ -7,7 +10,7 @@ This project was built using DCGAN.
 The DCGAN was trained on [CelebFaces Attributes (CelebA) Dataset](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html).
 
 ### Sample Input:
-[image1]: ./assets/processed_face_data.png "Sample Input"
+![Sample Input][image1]
 
 ### Sample Output:
-[image2]: ./assets/sample_output.png "Sample Output"
+![Sample Output][image2]
